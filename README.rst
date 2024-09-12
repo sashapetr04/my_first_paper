@@ -23,8 +23,7 @@
 
 Abstract
 ========
-
-
+The task of matching vacancies and resumes is related to the need for employers to select candidates based on a large number of resumes. This task has become particularly relevant with the development of online job search platforms, where the number of resumes can be significant. This paper discusses a method for matching vacancies and resumes using vector representations derived from different models of the Transformer architecture, and proposes a method for improving the quality of matching.
 
 Research publications
 ===============================
