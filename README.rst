@@ -18,7 +18,7 @@
     :Название исследуемой задачи: Investigation of approaches for evaluating semantic similarity of texts in the task of matching vacancies and resumes
     :Тип научной работы: M1P
     :Автор: Петрова Александра Сергеевна
-    :Научный руководитель: д.ф.-м.н., Майсурадзе Арчил Ивериевич
+    :Научный руководитель: к.ф.-м.н., Майсурадзе Арчил Ивериевич
     :Научный консультант: Колосов Алексей Михайлович
 
 Abstract
