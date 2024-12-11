@@ -1,7 +1,7 @@
 {
    "label": "score",
    "labelColor": "#a89888",
-   "message": "A[B]I[O][M]",
+   "message": "AL[B]I[O][M]",
    "color": "#33D17A",
    "style": "for-the-badge",
    "logo": "gnome",
