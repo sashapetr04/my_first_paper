@@ -1,6 +1,6 @@
 | Название | Год | Автор | Ссылка | Краткое содержание |
 | -------- |---- | ----- | ------ | ---- |
-|Регрессионная модель, основанная на выпуклых комбинациях, максимально коррелирующих с откликом.|2015|А. А. Докукин, О. В. Сенько|[link](https://www.researchgate.net/publication/276415513_Regressionnaa_model_osnovannaa_na_vypuklyh_kombinaciah_maksimalno_korreliruusih_s_otklikom)|-|
+|Zero-Shot Recommendation AI Models for Efficient Job–Candidate Matching in Recruitment Process|2024|Jarosław Kurek, Tomasz Latkowski, Michał Bukowski, Bartosz Świderski, Mateusz Łępicki, Grzegorz Baranik, Bogusz Nowak, Robert Zakowicz, Łukasz Dobrakowski|[link]((https://www.mdpi.com/2076-3417/14/6/2601))|-|
 |Оптимальные выпуклые корректирующие процедуры в задачах высокой размерности.|2011|А. А. Докукин, О. В. Сенько|[link](https://eclib.psuti.ru/cgi-bin/irbis64r_12/cgiirbis_64.exe?LNG=en&C21COM=S&I21DBN=STAT&P21DBN=STAT&S21FMT=fullwebr&S21ALL=%28%3C.%3EK%3D%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%3C.%3E%29&Z21ID=&S21SRW=&S21SRD=&S21STN=1&S21REF=10&S21CNR=20&FT_REQUEST=&FT_PREFIX=)|-|
 |Correlation maximization in regression models based on convex combinations.|2011|Senko O., Dokukin A.|[link](https://www.researchgate.net/publication/252328557_Optimal_Convex_Correcting_Procedures_in_Problems_of_High_Dimension)|-|
 |An optimal ensemble of predictors in convex correcting procedures.|2009|Senko O.V.|[link](https://link.springer.com/article/10.1134/S1054661809030110)|-|
