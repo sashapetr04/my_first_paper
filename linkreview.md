@@ -4,6 +4,7 @@
 |Semantic Approaches Survey for Job Recommender Systems|2022|Assia Brek, Zizette Boufaida|[link](https://www.researchgate.net/publication/362482440_Semantic_Approaches_Survey_for_Job_Recommender_Systems)|-|
 |Survey on Job Recommendation Systems using Machine Learning|2023|Raj Thali, Suyog Mayekar, Shubham More|[link](https://www.researchgate.net/publication/370176981_Survey_on_Job_Recommendation_Systems_using_Machine_Learning)|-|
 |Data Mining Approach to Job Recommendation Systems|2021|Tanvi Tayade, Rutuja Akarte, Gayatree Sorte, Rohit Tayade|[link](https://www.researchgate.net/publication/347554505_Data_Mining_Approach_to_Job_Recommendation_Systems)|-|
+|Improved content recommendation algorithm integrating semantic information|2021|Jenna Kanerva, Hanna Kitti, Li-Hsin Chang, Teemu Vahtola, Mathias Creutz, Filip Ginter|[link](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00776-7)|-|
 |Attention Is All You Need|2017|Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin|[link](https://arxiv.org/abs/1706.03762)|-|
 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|2018|Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova|[link](https://arxiv.org/abs/1810.04805)|-|
 |MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers|2022|Kaitao Song, Yichong Leng, Xu Tan, Yicheng Zou, Tao Qin, Dongsheng Li|[link](https://arxiv.org/abs/2205.12986)|-|
