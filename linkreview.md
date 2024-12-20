@@ -12,6 +12,8 @@
 |Generative Pre-trained Transformer: A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions|2024|Gokul Yenduri, Ramalingam M, Chemmalar Selvi G, Supriya Y, Gautam Srivastava, Praveen Kumar Reddy Maddikunta, Deepti Raj G, Rutvij H Jhaveri, Prabadevi B, Weizheng Wang, Athanasios V.Vasilakos, Thippa Reddy Gadekallu|[link](https://www.researchgate.net/publication/379857733_GPT_Generative_Pre-trained_Transformer_-_A_Comprehensive_Review_on_Enabling_Technologies_Potential_Applications_Emerging_Challenges_and_Future_Directions)|-|
 |Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning|2022|Weixin Liang, Yuhui Zhang, Yongchan Kwon, Serena Yeung, James Zou|[link](https://arxiv.org/abs/2203.02053)|-|
 |Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test|2022|Seunghoon Paik1, Michael Celentano1, Alden Green2, Ryan J. Tibshirani|[link](https://arxiv.org/pdf/2309.02422)|-|
+|Towards a Semantic Search Engine for Scientific Articles|2017|Bastien Latard, Jonathan Weber, Germain Forestier, Michel Hassenforder|[link](https://www.researchgate.net/publication/319420530_Towards_a_Semantic_Search_Engine_for_Scientific_Articles)|-|
+|Research Paper on Question Answering System using BERT|2022|Anshul Kumar, Abhinav Panwar, Anurag Rawat|[link](https://www.researchgate.net/publication/366216145_Research_Paper_on_Question_Answering_System_using_BERT)|-|
 
 
 
